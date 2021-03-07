@@ -8,8 +8,8 @@
 <channel>
 	<title>
 	Comentaris per Invisere	</title>
-	<atom:link href="https://invisere.github.io/comments/feed/" rel="self" type="application/rss+xml" />
-	<link>https://invisere.github.io</link>
+	<atom:link href="https://invisere.tech/comments/feed/" rel="self" type="application/rss+xml" />
+	<link>https://invisere.tech</link>
 	<description>L&#039;aplicació per moure&#039;t</description>
 	<lastBuildDate>Mon, 01 Mar 2021 11:59:03 +0000</lastBuildDate>
 	<sy:updatePeriod>
@@ -20,11 +20,11 @@
 	<item>
 		<title>
 		Comentari de Un comentarista del WordPress a Default Kit		</title>
-		<link>https://invisere.github.io/default-kit/#comment-1</link>
+		<link>https://invisere.tech/?elementor_library=default-kit/#comment-1</link>
 
 		<dc:creator><![CDATA[Un comentarista del WordPress]]></dc:creator>
 		<pubDate>Mon, 01 Mar 2021 11:59:03 +0000</pubDate>
-		<guid isPermaLink="false">https://invisere.github.io/?elementor_library=default-kit#comment-1</guid>
+		<guid isPermaLink="false">https://invisere.tech/?elementor_library=default-kit#comment-1</guid>
 
 					<description><![CDATA[Hola, això és un comentari.
 Per començar a moderar, editar i suprimir comentaris, visiteu la pantalla dels comentaris al tauler.
