@@ -1,0 +1,370 @@
+/************************
+    - Media queries -
+************************/
+
+/* Medium Devices, Desktops */
+@media (min-width:992px) and (max-width:1199px) {
+	/* Video */
+	section.video .video-responsive {
+		-webkit-transform:scale(1.2);
+		   -moz-transform:scale(1.2);
+				transform:scale(1.2);
+	}
+	
+	/* Subscribe for newsletter */
+	.sidebar .newsletter-form input[type="email"],  
+	input[type="text"] {
+		width:150px;
+	}
+}
+
+@media (min-width:768px) and (max-width:991px) {
+	/* Navigation */
+	.navbar {
+		padding:25px 0;
+	}
+	
+	.navbar.floating {
+		padding-top:25px;
+		padding-bottom:20px;
+	}
+	
+	.navbar .navbar-icon {
+		display:none !important;
+	}
+	
+	/* Video */
+	section.video .video-responsive {
+		-webkit-transform:scale(1.4);
+		   -moz-transform:scale(1.4);
+				transform:scale(1.4);
+	}
+	
+	/* Info box */
+	.info-box {
+		padding-top:35px;
+		padding-bottom:35px;
+	}
+	
+	/* Pricing tables */
+	.pricing-tables .plan {
+		margin-left:0;
+		margin-right:0;
+	}
+
+	/* Subscribe for newsletter */
+	.sidebar .newsletter-form input[type="email"],  
+	input[type="text"] {
+		width:100%;
+	}
+    
+    /* WooCommerce */
+    .columns-3 .product-col {
+        width:50%;
+    }
+    
+    .product-col {
+        float:left;
+        width:50%;
+    }
+    
+    .single-product-details .pull-right {
+        float:none !important;
+    }
+}
+
+/* Small Devices, Tablets */
+@media (max-width:767px) {
+	/* Margin */
+	.res-margin {
+		margin-bottom:40px;
+	}
+	
+	/* Text center */
+	.text-center-xs,  
+	.text-center-xs > .pull-right {
+		float:none !important;
+		text-align:center;
+	}
+	
+	/* General and typography */
+	h1, .h1 {font-size:36px; line-height:36px;}
+	h2, .h2 {font-size:30px; line-height:30px;}
+	h3, .h3 {font-size:24px; line-height:24px;}
+	h4, .h4 {font-size:21px; line-height:21px;}
+	h5, .h5 {font-size:18px; line-height:18px;}
+	h6, .h6 {font-size:15px; line-height:15px;}
+
+	/* Sections */
+	.section header .icon.largest i {
+		font-size:60px;
+	}
+	
+	.section-title h2 {
+		font-size:30px;
+		line-height:30px;
+	}
+
+	/* Navigation */
+	.navbar {
+		padding:20px 0;
+	}
+	
+	.navbar .navbar-nav > li > a {
+		line-height:inherit !important;
+	}
+	
+	.navbar.floating {
+		padding-top:15px;
+		padding-bottom:15px;
+	}
+	
+	.navbar .navbar-icon {
+		display:none !important;
+	}
+	
+	/* Intro */
+	.intro .caption h1 {
+		font-size:36px;
+		line-height:42px;
+	}
+	
+    .intro-nav {
+        display:none;
+    }
+	
+	/* Arrows */
+	.arrows {
+		margin-top:15px;
+	}
+	
+	/* Buttons */
+	.btn {
+		padding:12px 20px;
+	}
+	
+	.btn.btn-inverse {
+		padding:10px 18px;
+	}
+
+	/* Portfolio Filters */
+	.portfolio-filters span {
+		padding:0 8px;
+	}
+	
+	/* Pricing tables */
+	.pricing-tables .plan {
+		padding-bottom:17px;
+	}
+	
+	.pricing-tables .plan header {
+		margin-top:20px;
+		margin-bottom:15px;
+	}
+	
+	.pricing-tables .plan ul li {
+		padding-top:8px;
+		padding-bottom:8px;
+	}
+	
+	.pricing-tables .plan .btn:first-of-type {
+		margin-top:15px;
+	}
+	
+	/* Sidebars */
+	.sidebar {
+		padding-left:0 !important;
+	}
+	
+	/* Author */
+	.author-img {
+		width:100%;
+		float:none;
+		text-align:center;
+		margin-bottom:30px;
+	}
+
+	/* Info box */
+	.info-box {
+		padding-top:20px;
+		padding-bottom:20px;
+	}
+	
+	.info-box input[type="email"] {
+		font-size:18px;
+	}
+    
+    /* Testimonials */
+    .testimonial-carousel .carousel-text .single-box {
+	  	width:100%;
+	}
+
+	/* Contact information and form */
+	.contact-form .field {
+		width:100%;
+		margin-bottom:15px !important;
+	}
+	
+	.contact-form h5 {
+		margin-top:30px;
+	}
+
+	/* Images Slider */
+	.image-slider .arrows.large .arrow.left {
+		left:-20px;
+	}
+	
+	.image-slider .arrows.large .arrow.right {
+		right:-20px;
+	}
+	
+	/* Post */
+	.blog-title {
+		padding:0;	
+	}
+	
+	.post-author {
+		top:0;
+	}
+	
+	.post-author .description {
+		width:100%;
+	}
+	
+	.nav-links:before,
+	.post-navigation-wrapper .divider:before {
+		display:none;	
+	}
+	
+	.nav-links span {
+		margin-bottom:5px;
+	}
+	
+	.nav-links .nav-previous {
+		margin-bottom:40px;
+	}
+	
+	.nav-links .nav-previous,
+	.nav-links .nav-next {
+		float:none;
+		clear:both;
+		width:100%;
+		text-align:center;
+	}
+	
+	/* Post footer */
+	.share-panel {
+		display:none;
+	}
+	
+	.post-footer.single-post-footer .tags,
+	.post-footer.single-post-footer .post-counters {
+		clear:both;
+		float:none;
+	}
+	
+	.post-meta > li {
+		clear:both;
+		float:none;
+		width:100%;
+	}
+	
+	/* Comments */
+	.user-comment {
+		margin-bottom:25px;
+	}
+	
+	.user-comment .image {
+        clear:both;
+        float:none;
+        margin:0 0 20px 0;
+		width:60px;
+	}
+	
+	.user-comment .details {
+		margin-left:0;
+	}
+	
+	.user-comment .details .info .author {
+		width:100%;
+	}
+	
+	.user-comment .details .info .date {
+		float:left;
+	}
+	
+	.user-comment .user-comment {
+		margin-top:25px;
+	}
+    
+    /* Footer */
+	.footer .recent-post {
+		width:100%;
+	}
+	
+	.footer-social {
+		text-align:center;
+		margin-top:20px;
+	}
+	
+	footer .copyright {
+		text-align:center;
+	}
+
+	/* Google maps */
+	.map #google-map {
+		height:250px;
+	}
+	
+	/* Counters */
+	.counter-content {
+		border:0;
+	}
+    
+    /* WooCommerce */
+    .shop-result-count {
+        text-align:center;
+        margin-bottom:20px;
+    }
+    
+    .woocommerce .woocommerce-ordering {
+        clear:both;
+        float:none;
+        text-align:center;
+    }
+    
+    .product-col {
+        float:left;
+        width:50% !important;
+    }
+    
+    .single-product-details .pull-right {
+        float:none !important;
+    }
+    
+    .product-reviews .review .description,
+    .product-reviews .review .comment-text {
+        clear:both;
+        width:100%;
+    }
+    
+    .product-reviews .review img.avatar {
+        clear:both;
+        float:none;
+        margin-bottom:20px;
+    }
+    
+    .product-reviews .star-rating {
+        position:relative;
+        clear:both;
+        float:none;
+        right:auto;
+        margin-bottom:20px;
+    }
+    
+    .single-product-add .quantity input {
+        padding:7px 18px 8px;
+    }
+}
+
+

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>General &#8211; Invisere</title>
+	<atom:link href="http://invisere.tech/category/general/feed/" rel="self" type="application/rss+xml" />
+	<link>http://invisere.tech</link>
+	<description>Ja saps on vols anar?</description>
+	<lastBuildDate>Tue, 18 May 2021 12:51:27 +0000</lastBuildDate>
+	<language>ca</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.7.2</generator>
+	<item>
+		<title>Hola, món!</title>
+		<link>http://invisere.tech/2021/05/18/hola-mon/</link>
+					<comments>http://invisere.tech/2021/05/18/hola-mon/#comments</comments>
+		
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Tue, 18 May 2021 12:51:27 +0000</pubDate>
+				<category><![CDATA[General]]></category>
+		<guid isPermaLink="false">http://invisere.tech/?p=1</guid>
+
+					<description><![CDATA[Benvinguts al WordPress. Aquest és la primera entrada. Editeu-la o suprimiu-la, i aleshores comenceu a escriure!]]></description>
+										<content:encoded><![CDATA[
+<p>Benvinguts al WordPress. Aquest és la primera entrada. Editeu-la o suprimiu-la, i aleshores comenceu a escriure!</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>http://invisere.tech/2021/05/18/hola-mon/feed/</wfw:commentRss>
+			<slash:comments>1</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

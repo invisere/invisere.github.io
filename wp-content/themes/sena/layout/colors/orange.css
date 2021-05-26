@@ -1,0 +1,211 @@
+a:hover, 
+a:focus,
+h1.colored, .h1.colored, 
+h2.colored, .h2.colored, 
+h3.colored, .h3.colored, 
+h4.colored, .h4.colored, 
+h5.colored, .h5.colored, 
+h6.colored, .h6.colored,
+.icon.colored i,
+.navbar .dropdown.open > a,
+.navbar .navbar-nav > li > .dropdown-menu li.active a,
+.navbar .navbar-collapse .navbar-nav li.menu-item-has-children .sub-menu .menu-item-has-children:hover:before,
+.navbar .navbar-icon a:hover > i,
+.intro .caption h3,
+.intro-nav .owl-arrows > button:hover,
+.intro-nav .owl-dots .owl-dot.active:after,
+.section-title p > strong,
+.service-single .icon,
+.team-member:hover .team-details .title,
+.testimonial-carousel .carousel-text .single-box i,
+.price-table .price-title > .icon,
+.price-table .price-title .price-rate .currency > i,
+.price-table .price-title .price-rate .rate,
+.price-table .price-title .price-rate .time,
+.price-btn a,
+.btn.btn-link,
+.btn-read-more,
+.btn.btn-white:hover,
+.btn.btn-white:focus,
+.is-style-outline .wp-block-button__link,
+.portfolio-filters span:hover,
+.sidebar .search-form button:hover,
+.sidebar .search-form button:focus,
+.sidebar ul.menu li a:hover, 
+.sidebar ul.menu li a:focus,
+.sidebar ul.links li a:hover, 
+.sidebar ul.links li a:focus,
+.recent-post-categories a,
+.author-info h3 a,
+.author-info h4,
+.blog-category > a,
+.parallax .blog-about a:hover,
+.parallax .about-author a:hover,
+.pages-navigation a:hover, 
+.pages-navigation a:focus,
+.user-comment .details .reply a,
+.comment-respond h3 small > a,
+.contact-content > .icon,
+.contact-content:hover h4,
+.post-tags a,
+.share-btn:hover > p,
+.share-btn:hover > p > i,
+.post-counters li > a:hover,
+.nav-links span,
+.product-info .add-to-cart-btn a,
+.single-product-price h3,
+.product-list li .product-summary .remove:hover > i,
+.woocommerce-MyAccount-navigation-link.is-active a,
+.woocommerce-info:before,
+footer a:hover,
+.footer-social a:hover > i,
+footer .footer-widgets .textwidget i,
+footer .mc4wp-form .mailchimp-submit:hover,
+footer .mc4wp-form .mailchimp-submit:focus {
+	color:#ee8f67;
+}
+
+.navbar .navbar-nav > li a:hover, 
+.navbar .navbar-nav > li a:focus,
+.navbar .navbar-nav > li.active > a,
+.service-single:hover .arrow,
+.arrows .arrow i.fa:hover,
+.section-title h3,
+.nav-tabs > li.active > a, 
+.nav-tabs > li.active > a:hover, 
+.nav-tabs > li.active > a:focus,
+.video-control > i,
+.widget ul li a:hover,
+.share-btn:hover > p > i {
+	color:#ee8f67 !important;
+}
+
+.btn.btn-link:hover, 
+.btn.btn-link:focus,
+.blog-category > a:hover,
+.product-info .add-to-cart-btn a:hover {
+	color:#f2a787;
+}
+
+.intro .mouse:hover .wheel,
+.service-single:hover,
+.service-single .arrow,
+.portfolio-filters span.active,
+.clients-slider .owl-dots > .owl-dot.active span,
+.price-table.featured,
+.price-btn a:before,
+.blog-home .blog-col:hover .blog-category,
+.tagcloud > a:hover,
+blockquote.wp-block-quote,
+footer .tagcloud > a:hover,
+.recent-post-image:before,
+.sidebar ul.menu li span,
+.widget_categories li span {
+	background:#ee8f67;
+}
+
+.search-wrapper .search-close-btn:hover:before,
+.search-wrapper .search-close-btn:hover:after {
+	background:rgba(238, 143, 103, 0.85) !important;
+}
+
+.navbar .navbar-toggle:hover .icon-bar,
+.btn.btn-default,
+.wp-block-button__link,
+.wp-block-search__button,
+input.search-submit,
+.portfolio-item .loading,
+.progress .progress-bar,
+.progress-heading .progress-value > span,
+.faq-support .panel-heading a,
+.dropcap.alt,
+.highlight,
+.sticker.default,
+.page-numbers > li > a,
+.cart-open .cart-number,
+.woocommerce span.onsale,
+.woocommerce .widget_price_filter .ui-slider .ui-slider-range,
+.woocommerce .widget_price_filter .ui-slider .ui-slider-handle,
+#scrollTop:before,
+#scrollTop:after,
+#zoom-in:hover, 
+#zoom-out:hover {
+	background-color:#ee8f67;
+}
+
+#zoom-in, 
+#zoom-out,
+.team-member .team-social,
+.section.parallax .parallax-overlay.colored, 
+.section.video .parallax-overlay.colored, 
+.section.parallax .video-overlay.colored, 
+.section.video .video-overlay.colored {
+	background-color:rgba(238, 143, 103, 0.85);
+}
+
+.btn.btn-default:hover, 
+.btn.btn-default:focus,
+.wp-block-button__link:hover,
+.wp-block-button__link:focus,
+.wp-block-search__button:hover,
+.wp-block-search__button:focus,
+.page-numbers > li > a:hover,
+.page-numbers > li > a:focus,
+input.search-submit:hover,
+input.search-submit:focus {
+	background-color:#f2a787;
+}
+
+.woocommerce-button:hover,
+.checkout-button:hover,
+.woocommerce .button:not(.add_to_cart_button):hover {
+    background-color:#f2a787 !important;
+}
+
+.intro .mouse:hover,
+.progress-heading .progress-value > span:before,
+.is-style-outline .wp-block-button__link,
+.testimonial-carousel .carousel-images .slick-center img,
+footer .tagcloud > a:hover,
+input:focus,
+select:focus,
+textarea:focus {
+	border-color:#ee8f67;
+}
+
+blockquote,
+input.notice, 
+textarea.notice,
+.product-tabs .minimal-tabs > li.active > a,
+.product-tabs .minimal-tabs > li.active > a:focus,
+.product-tabs .minimal-tabs > li.active > a:hover {
+	border-color:#ee8f67 !important;
+}
+
+.portfolio-filters a.active,
+.is-style-outline .wp-block-button__link:hover,
+.woocommerce-button,
+.checkout-button,
+.woocommerce .button:not(.add_to_cart_button) {
+	background-color:#ee8f67 !important;
+}
+
+.promotion-box {
+	border-left-color:#ee8f67;
+}
+
+.promotion-box.line-top,
+.page-loader .loading-spinner,
+.woocommerce-info,
+.user-comment.bypostauthor .user-comment-inner:after {
+	border-top-color:#ee8f67;
+}
+
+.sticker.default:hover {
+	background-color:#fa9c7c;
+}
+
+
+
+
+
